@@ -5,7 +5,7 @@ import string
 from datetime import datetime
 
 # Constants and placeholders
-TWITTER_USERNAME = "@zday0x01_dark"
+TWITTER_USERNAME = " "
 TWITTER_PASSWORD = "*********************"  
 
 def generate_random_string(length=12):
