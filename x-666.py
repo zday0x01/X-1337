@@ -6,11 +6,11 @@ from datetime import datetime
 
 # Constants and placeholders
 TWITTER_USERNAME = "@zday0x01_dark"
-TWITTER_PASSWORD = "*********************"  # Placeholder password
+TWITTER_PASSWORD = "*********************"  
 
 def generate_random_string(length=12):
     """
-    Generates a random alphanumeric string of specified length.
+    XXX
     """
     characters = string.ascii_letters + string.digits
     return ''.join(random.choice(characters) for _ in range(length))
